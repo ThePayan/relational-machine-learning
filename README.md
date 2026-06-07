@@ -21,7 +21,7 @@ uv venv .venv
 3) Instalar dependencias:
 
 ```
-uv pip install pandas networkx scikit-learn ipykernel
+uv pip install pandas networkx scikit-learn ipykernel torch keras
 ```
 
 ## Notebooks
